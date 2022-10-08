@@ -2,7 +2,7 @@
 
 Data has been scrapped using google play scrapper i.e the API for google play store.
 
-Main focus study was the education Apps.
+Main focus of study was on education Apps.
 
 The limit for google play store scrapper is 30 per search so we need to scrape multiple times and concatinate it.
 
